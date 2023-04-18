@@ -1,0 +1,15 @@
+Regular expression Python tilini kutubhonasidir va uni codda ishlatish uchun 
+import re yoziladi
+Regular expressionda qulay foydalanish orqali matndan kerakli belgini topish 
+belgilarni almashtirish matnda ishlatilgan belgilarni kochirib yuborish va 
+boshqa kop ishlar otkazish mumkin.
+
+Regular expressionni yozishda ifodalar ishlatiladi.
+Misol uchun '.' bir belgi bilan mos keladi '*' esa 
+avvalgi belgi yoki guruhning nol yoki undan ortiq hodisalariga mos 
+keladi
+
+Regular expressionni yozishda foydalanishda qulay bolishi uchun biror 
+bir belgini topish uchun foydalaniladigan belgi toplami (masalan [a-z]) 
+belgilar orqali ishlatiladigan maxsus belgilar muntazam ifodalar va kichik 
+chiziqlar kabi qulay korinishlarda yozilishi mumkin.

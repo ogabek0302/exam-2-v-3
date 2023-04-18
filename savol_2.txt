@@ -1,0 +1,8 @@
+Jupyter Notebook Python dilida yozilgan kodni ijro qilish uchun interaktiv muhitdir.
+Uning asosiy tuzilish shakli malumotlarni matn va сod qismida kiritish imkoniyatini
+beradi va korsatilayotgan malumotlarni bajarish va ozgartirish uchun interaktiv
+vositalar yaratilgan. Bu malumot analizini amalga oshirish uchun kop qollaniladi. 
+Jupyter Notebook kodlarni qollash tahlil qilish statistik malumotlar yozish va korib 
+chiqish malumotlar vizualizatsiyasi va boshqa korsatmalarga ega bolish uchun oz-ozidan 
+kop foydalaniladigan texnologiyalardan biridir. Jupyter Notebook kodlar va malumotlar keng 
+korib chiqilishi va ularga statistik analizlar kiritish uchun qulaydir.
